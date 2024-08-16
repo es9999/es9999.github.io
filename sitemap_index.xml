@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/drew/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/drew/post-sitemap.xml</loc>
+		<loc>post-sitemap.xml</loc>
 		<lastmod>2023-09-06T01:49:37+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/drew/page-sitemap.xml</loc>
+		<loc>page-sitemap.xml</loc>
 		<lastmod>2024-08-08T21:26:53+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
